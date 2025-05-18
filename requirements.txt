@@ -5,4 +5,6 @@ scikit-learn
 joblib
 python-multipart
 jinja2
-pydantic 
+pydantic
+httpx
+python-dotenv 
